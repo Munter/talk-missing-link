@@ -1,0 +1,15 @@
+
+Web Build System
+================
+
+Why?
+Fast delivery over HTTP
+
+How?
+Fewer bytes on the wire (bandwidth)
+Fewer requests (latency)
+
+What?
+Uglify, compress, gzip (bandwidth)
+Concatenate, sprite (latency)
+Rename on updates (cache)

@@ -1,0 +1,9 @@
+
+Who am I
+========
+
+Frontend Developer @Podio
+
+Organizer @CopenhagenJS
+
+Maintainer @Assetgraph

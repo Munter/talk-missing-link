@@ -1,0 +1,14 @@
+   _____                        __                             .__
+  /  _  \   ______ ______ _____/  |_  ________________  ______ |  |__
+ /  /_\  \ /  ___//  ___// __ \   __\/ ___\_  __ \__  \ \____ \|  |  \
+/    |    \\___ \ \___ \\  ___/|  | / /_/  >  | \// __ \|  |_> >   Y  \
+\____|__  /____  >____  >\___  >__| \___  /|__|  (____  /   __/|___|  /
+        \/     \/     \/     \/    /_____/            \/|__|        \/
+
+        If it works in the browser, it work in Assetgraph
+
+How it works:
+- Feed Assetsgraph a starting page
+- Start populating
+- Manipulate the graph model
+- Write to disk

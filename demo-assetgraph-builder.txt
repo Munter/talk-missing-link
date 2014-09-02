@@ -1,0 +1,19 @@
+________
+\______ \   ____   _____   ____
+ |    |  \_/ __ \ /     \ /  _ \
+ |    `   \  ___/|  Y Y  (  <_> )
+/_______  /\___  >__|_|  /\____/
+        \/     \/      \/
+        Assetgraph-builder
+
+$ jekyll build
+$ buildProduction --outroot dist .tmp/index.html
+
+Pros:
+- Out of the box, no configuration
+- Doesn't care about directory structure
+- Only includes what is referenced
+- Finds syntax errors, broken links
+- Does "the right thing" (opinionated)
+- Don't think about optimization,
+  Just make it work in a browser

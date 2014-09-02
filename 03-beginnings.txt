@@ -1,0 +1,9 @@
+
+Information Management: A Proposal
+
+Tim Berners-Lee, CERN
+March 1989, May 1990
+
+The problem with trees
+
+A solution: Hypertext

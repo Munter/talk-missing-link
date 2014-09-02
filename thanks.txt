@@ -1,0 +1,16 @@
+___________.__                   __
+\__    ___/|  |__ _____    ____ |  | __  ______
+  |    |   |  |  \\__  \  /    \|  |/ / /  ___/
+  |    |   |   Y  \/ __ \|   |  \    <  \___ \
+  |____|   |___|  (____  /___|  /__|_ \/____  >
+                \/     \/     \/     \/     \/
+
+            Peter Müller
+            http://twitter.com/_munter_
+            http://github.com/munter
+            http://mntr.dk
+
+Resources:
+- https://github.com/assetgraph/assetgraph
+- https://github.com/assetgraph/assetgraph-builder
+- http://mntr.dk/2014/getting-started-with-assetgraph
