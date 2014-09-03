@@ -1,9 +1,12 @@
+ __      __.__                _____            .___
+/  \    /  \  |__   ____     /  _  \   _____   |   |
+\   \/\/   /  |  \ /  _ \   /  /_\  \ /     \  |   |
+ \        /|   Y  (  <_> ) /    |    \  Y Y  \ |   |
+  \__/\  / |___|  /\____/  \____|__  /__|_|  / |___|
+       \/       \/                 \/      \/
 
-Who am I
-========
+            Frontend Developer @Podio
 
-Frontend Developer @Podio
+            Organizer @CopenhagenJS
 
-Organizer @CopenhagenJS
-
-Maintainer @Assetgraph
+            Maintainer @Assetgraph
