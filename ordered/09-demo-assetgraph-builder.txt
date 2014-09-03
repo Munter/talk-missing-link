@@ -7,7 +7,7 @@
             Assetgraph-builder
 
 $ jekyll build
-$ buildProduction --outroot dist .tmp/index.html
+$ buildProduction --outroot dist .tmp/*.html
 
 Pros:
 - Out of the box, no configuration
