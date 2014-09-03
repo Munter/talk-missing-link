@@ -1,9 +1,0 @@
-
-The Problem
-===========
-
-Manual dependency graph flattening
-Lots of repetition of file locations
-To many files included
-Missing files
-Broken links

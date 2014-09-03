@@ -11,5 +11,5 @@ Fewer requests (latency)
 
 What?
 Uglify, compress, gzip (bandwidth)
-Concatenate, sprite (latency)
+Concatenate, sprite, inlining (latency)
 Rename on updates (cache)
