@@ -5,10 +5,10 @@ ___________.__                   __
   |____|   |___|  (____  /___|  /__|_ \/____  >
                 \/     \/     \/     \/     \/
 
-            Peter Müller
-            http://twitter.com/_munter_
-            http://github.com/munter
-            http://mntr.dk
+          Peter Müller <munter@fumle.dk>
+          http://twitter.com/_munter_
+          http://github.com/munter
+          http://mntr.dk
 
 Resources:
 - https://github.com/assetgraph/assetgraph

@@ -1,0 +1,16 @@
+    .___    .___
+    |   | __| _/____ _____
+    |   |/ __ |/ __ \\__  \
+    |   / /_/ \  ___/ / __ \_
+    |___\____ |\___  >____  /
+             \/    \/     \/
+    Do what the browser does
+
+It's Basic:
+
+10 Download resource at URL
+20 Parse resource
+30 Find outgoing URLS
+40 GOTO 10
+
+Build a dependency graph based on static analysis
